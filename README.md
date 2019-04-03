@@ -9,6 +9,19 @@ This is a simple webapp made while learning React.js which enables users to do t
 
 The app uses Parcel for bundling, and uses the reach-router for routing through various routes.
 
+# Home page
+![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot1.png)
+# Searching for horse pets
+![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot2.png)
+# Searching for Golden Retriever's
+![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot3.png)
+# Various Pictures in Carousel of Bishop
+![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot4.png)
+
+
+
+
+
 ## Usage
 Clone the repo and install the dependencies:
 
