@@ -11,9 +11,9 @@ The app uses Parcel for bundling, and uses the reach-router for routing through 
 
 # Home page
 ![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot1.png)
-# Searching for horse pets
-![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot2.png)
 # Searching for Golden Retriever's
+![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot2.png)
+# Looking at Bishop's profile
 ![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot3.png)
 # Various Pictures in Carousel of Bishop
 ![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot4.png)
