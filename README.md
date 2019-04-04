@@ -7,7 +7,7 @@ This is a simple webapp made while learning React.js which enables users to do t
 - Displays various pictures of the pets in a Carousel.
 - Displays various information on how they can adopt a particular pet.
 
-The app uses Parcel for bundling, and uses the reach-router for routing through various routes.
+The app uses Parcel for bundling, and uses the reach-router for routing through various routes. To get the various info about the pets the app uses the petfinder API.
 
 # Home page
 ![alt text](https://github.com/kt849/myReactApp/blob/master/scrots/scrot1.png)
@@ -30,6 +30,7 @@ git clone https://github.com/kt849/myReactApp
 cd myReactApp
 npm install
 ```
+Go to https://www.petfinder.com/developers/ to get your own API key and secret, put them in the file named .env in the place holder for the key and the secret respetively.
 
 Run with `node app.js`
 
