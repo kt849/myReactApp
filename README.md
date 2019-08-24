@@ -32,5 +32,5 @@ npm install
 ```
 Go to https://www.petfinder.com/developers/ to get your own API key and secret, put them in the file named .env in the place holder for the key and the secret respetively.
 
-Run with `node app.js`
+Run with `npm run dev`
 
